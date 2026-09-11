@@ -1,0 +1,5 @@
+# Direct dependencies pinned to the local Python 3.13.5 environment.
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.1
+yfinance==1.7.0
